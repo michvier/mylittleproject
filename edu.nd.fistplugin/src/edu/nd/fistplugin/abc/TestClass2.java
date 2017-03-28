@@ -6,5 +6,10 @@ public class TestClass2 {
 		// TODO Auto-generated method stub
 
 	}
+	
+	
+	public void newmethod(){
+		System.out.println("new content....");
+	}
 
 }
